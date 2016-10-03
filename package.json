@@ -1,0 +1,17 @@
+{
+  "name": "PilotDH",
+  "version": "0.0.1",
+  "description": "Expandable Data Management Platform",
+  "main": "main.js",
+  "repository": "",
+  "author": "Weizhen Ma",
+  "dependencies": {
+    "express": "^4.8.0",
+    "request": "^2.69.0",
+    "cassandra-driver": "^3.1.4",
+    "restify": "^4.1.1"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
